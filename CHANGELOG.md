@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.4.0 (2021-06-11)
+
+### Features
+
+-   extract engine from sited_test ([0f4ffb1](https://github.com/wistn/sited_js/commit/0f4ffb1d46fd0eec07ef1c4c8c3c22a9306e93a3))
+
 ## [1.3.0] (2021-03-11)
 
 ### ⚠ BREAKING CHANGES
