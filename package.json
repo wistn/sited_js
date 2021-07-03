@@ -1,6 +1,6 @@
 {
     "name": "sited_js",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "main": "index.js",
     "scripts": {
         "clean": "rimraf files/sited files/sited_*.txt files/logcat_stdout.txt",
